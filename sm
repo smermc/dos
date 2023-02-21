@@ -1,7 +1,7 @@
 import socket, os, time
 import threading
 
-print(""" DDOS ATTACK TOOL """)
+
 
 
 target = input("Enter target ip -->")
